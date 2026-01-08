@@ -30,5 +30,8 @@ This software is perfect for developers, writers, or anyone who frequently works
 ## Developer
 Kurt Cengiz – check out more projects on my portfolio: [https://cengizbot.github.io/cengizDev/](https://cengizbot.github.io/cengizDev/)
 
+## Vente
+Disponible sur https://cengizbotdev.gumroad.com/l/vxyha
+
 
 
