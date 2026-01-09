@@ -1,6 +1,7 @@
 # Auto Translator
 
 ![Software Clipboard](software-clipboard.png)
+![Software Clipboard video](video.mp4)
 
 ## Description
 Auto Translator is a **real-time automatic translation tool** that translates any text you copy to your clipboard. Simply copy text from any application, and Auto Translator will instantly display the translated version in your chosen language.  
