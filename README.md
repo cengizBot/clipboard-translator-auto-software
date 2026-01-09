@@ -1,6 +1,6 @@
 # Auto Translator
 
-![Software Clipboard](software-clipboard.png)
+![Software Clipboard](img.png)
 [▶️ Voir la démonstration vidéo](video.mp4)
 
 ## Description
