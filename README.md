@@ -1,4 +1,4 @@
-# Auto Translator
+# Auto Translator for windows
 
 ![Software Clipboard](img.png)
 [▶️ Voir la démonstration vidéo](video.mp4)
